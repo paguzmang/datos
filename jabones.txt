@@ -1,0 +1,16 @@
+caja.petri	jabon	nro.colonias
+1	antibac	27
+2	antibac	6
+3	ordinario	45
+4	antibac	46
+5	ordinario	36
+6	ordinario	35
+7	antibac	76
+9	ordinario	66
+10	ordinario	38
+11	antibac	30
+12	ordinario	63
+13	antibac	16
+14	ordinario	30
+15	antibac	26
+16	ordinario	21
